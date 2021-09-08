@@ -1,5 +1,4 @@
-"""
-Python function: Map
+# Python iterable function: Map
 
 import math
 
@@ -46,7 +45,6 @@ obj1 = map(lambda t: (t[0], 9/5 * t[1] + 32), cities_c)
 print(list(obj1))
 print(list(obj1))
 
-"""
 
 # Using filter() and map()
 # Print the sentence "I like" and the name of candy that have less or iqual than 6 letters
